@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6128f5f-a92c-4825-8c7d-4fb598cac363" name="Changes" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/SIPCalculator.java" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/src/compoundInterestCalculator.java" afterDir="false" />
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +40,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
+    "git-widget-placeholder": "SIPCalculator",
+=======
     "git-widget-placeholder": "compoundInterestCalculator",
+>>>>>>> master
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
